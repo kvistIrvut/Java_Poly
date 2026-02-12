@@ -1,3 +1,4 @@
+package Practice_1_IO;//Не совес понимаю пока что откуда это берется, но без него неработает
 import java.util.Scanner;
 
 public class Main {
