@@ -12,7 +12,7 @@ public class Task6 {
         long l1 = (long) d2;
         System.out.println(l1);
 
-        //Сужение от long -> int
+        //Сужение от long к int
         long l3 = 100000L;
         int i3 = (int) l3;
         System.out.println(i3);
@@ -27,7 +27,7 @@ public class Task6 {
         char c3 = (char) i6;
         System.out.println(c3);
 
-        //Сужение от long к double 
+        //Расширение от long к double 
         long l5 = 123456789012345L;
         double d4 = (double) l5;
         System.out.println(d4);
