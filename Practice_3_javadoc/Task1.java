@@ -13,7 +13,7 @@ public class Task1 {
      * @see Складывает два int числа.
      * @since 1
      * @param a первое число
-     * @param b второе число
+     * @param b второе числоe
      * @return int сумма 2 чисел
      * @throws typeMismatch
      */
