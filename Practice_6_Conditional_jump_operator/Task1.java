@@ -1,4 +1,4 @@
-package Pricatice_6_Conditional_jump_operator;
+package Practice_6_Conditional_jump_operator;
 
 public class Task1 {
     public static void main(String[] args) {
