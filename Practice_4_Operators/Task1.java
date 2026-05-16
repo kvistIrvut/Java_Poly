@@ -89,7 +89,9 @@ public class Task1 {
         value >>= 1;
         value >>>= 1;
 
-
+        //Тернарный оператор
+        int maxValue = (a > b) ? a : b;
+        System.out.println("Максимальное число = " + maxValue);
       
 
         //Круглые скобки ()

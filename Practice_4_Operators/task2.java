@@ -6,7 +6,7 @@ class Number {}
 
 class EvenNumber extends Number {}
 
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
         EvenNumber even = new EvenNumber();
         System.out.println("even instanceof EvenNumber = " + (even instanceof EvenNumber) ); 
